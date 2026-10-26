@@ -10,6 +10,7 @@ import {
  
 } from "react-icons/fa";
 import { CiMobile3 } from "react-icons/ci";
+
 function Hero() {
   return (
     <header className="relative flex min-h-[85vh] items-center bg-[#080b12] py-16">
